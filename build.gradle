@@ -210,3 +210,5 @@ mixin{
     add sourceSets.main, 'testmod.refmap.json'
     config 'mixins.testmod.json'
 }
+
+apply from: "https://moddingtutorials.org/applesilicon.gradle"
